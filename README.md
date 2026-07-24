@@ -68,3 +68,5 @@ devices are plugged in or removed.
 The app is **ad-hoc signed** (no Apple Developer account needed) — perfect for
 personal use, but not notarized for distribution. Switching the input device
 only sets the system default, so no microphone-permission prompt appears.
+
+This app was coded by Claude Opus 5.
